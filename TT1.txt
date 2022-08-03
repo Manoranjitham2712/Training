@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-KNFV,X, dksjndc
-=======
-KNFV,X, sjdkjas
->>>>>>> add
